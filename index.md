@@ -6,7 +6,7 @@ Nom: Didier Hémery
 Mail: [mail@pro.didierh.com](mail@pro.didierh.com)
 
 ## Etudes
-**2014 - 2020**: **EPITA** (http://www.epita.fr), majeure **TCOM** (télécom), 3ème année de cycle ingénieur.
+**2014 - 2020**: **[EPITA](http://www.epita.fr)**, majeure **TCOM** (télécom), 3ème année de cycle ingénieur.
 
 **Janvier - Mai 2017**: Semestre d'échange au **Griffith College** à Dublin
 

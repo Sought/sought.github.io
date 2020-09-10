@@ -25,7 +25,7 @@ Zoglu est une **simulation de projet** de **refonte de l'infrastructure réseau*
 **[Slide or Die](https://axelvborn.itch.io/slidedemo)** est un jeu développé sous **Unity en C#** par deux développeurs: Axel Born et moi même. Le joueur contrôle un personnage qui patine sur un terrain et doit esquiver des monstres.
 
 ### 2018 Brick It!
-[Brick It!](https://axelvborn.itch.io/brick-it) est un jeu codé lors d'une game jam (Ludum Dare). Le joueur contrôle un cube enfermé dans une zone, qui se remplit petit à petit d'obstacles. Le joueur doit ainsi esquiver des tirs ennemis dans une zone de jeu qui se réduit progressivement.
+**[Brick It!](https://axelvborn.itch.io/brick-it)** est un jeu codé lors d'une game jam (Ludum Dare). Le joueur contrôle un cube enfermé dans une zone, qui se remplit petit à petit d'obstacles. Le joueur doit ainsi esquiver des tirs ennemis dans une zone de jeu qui se réduit progressivement.
 
 ## Connaissances techniques
 ### Langages

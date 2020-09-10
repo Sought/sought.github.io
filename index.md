@@ -3,7 +3,7 @@
 # CV
 Nom: Didier Hémery
 
-Mail: [mail@pro.didierh.com](mail@pro.didierh.com)
+Mail: **<mail@pro.didierh.com>**
 
 ## Etudes
 **2014 - 2020**: **[EPITA](http://www.epita.fr)**, majeure **TCOM** (télécom), 3ème année de cycle ingénieur.

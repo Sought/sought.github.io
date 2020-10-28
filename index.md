@@ -63,4 +63,4 @@ Orchestrateurs, conteneurs.
 - Français: Langue maternelle
 
 ## Loisirs
-Programmation; Football; Casse-têtes; Lecture; Physique; Jeux d'équipe en ligne.
+Programmation; Casse-têtes; Lecture; Physique; Jeux d'équipe compétitifs en ligne.

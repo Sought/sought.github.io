@@ -16,10 +16,10 @@ Mail: **<mail@pro.didierh.com>**
 
 ## Projets
 ### 2020 Zoglu
-Zoglu est une **simulation de projet** de **refonte de l'infrastructure réseau** d'une entreprise, mené sur **un an**, en **groupe de 7**.
+Zoglu est une **simulation de projet** de **refonte de l'infrastructure réseau** d'une entreprise, menée sur **un an**, en **groupe de 7**.
 
 ### 2020 PMS
-**PMS** est une **simulation de projet** de **refonte du système d'information** d'une entreprise, dans le but d'une **fusion de trois entreprises aériennes**, mené en **groupe de 6**, dont je suis le chef d'équipe.
+**PMS** est une **simulation de projet** de **refonte du système d'information** d'une entreprise, dans le but d'une **fusion de trois entreprises aériennes**, menée en **groupe de 6**, dont je suis le chef d'équipe.
 
 ### 2017 - 2018 Slide or Die
 **[Slide or Die](https://axelvborn.itch.io/slidedemo)** est un jeu développé sous **Unity en C#** par deux développeurs. Le joueur contrôle un personnage qui patine sur un terrain et doit esquiver des monstres.
